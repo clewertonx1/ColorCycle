@@ -1,6 +1,7 @@
 "# ColorCycle" 
 
 idea from: https://github.com/florinpop17/app-ideas
+previewer: https://expo.io/@clewertonx1/ColorCycle
 Tier: 1-Beginner
 
 The use of color plays a major role in an applications User Interface and User Experience (UI/UX). ColorCycle seeks to help WebDev's better understand RBG colors by making small changes to a colored box over time.
@@ -9,4 +10,4 @@ This app draws a box filled with a user specified color and makes small changes 
 
 ### Final Result:
 
-<img src"https://user-images.githubusercontent.com/48888681/79899026-85459980-83e2-11ea-8742-308abf4be4af.gif" widht="270" height="585">
+<img src="https://user-images.githubusercontent.com/48888681/79899026-85459980-83e2-11ea-8742-308abf4be4af.gif" widht="270" height="585">
