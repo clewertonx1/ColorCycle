@@ -1,0 +1,17 @@
+{
+  "name": "ColorCycle",
+  "displayName": "ColorCycle",
+  "expo": {
+    "name": "ColorCycle",
+    "slug": "ColorCycle",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
